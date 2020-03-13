@@ -1,5 +1,5 @@
 ### What's in here
-- `perspectrum_minimal_pairs.csv`: contains the constrast sets we use for evaluation.
+- `perspectrum_contrast_sets.csv`: contains the constrast sets we use for evaluation.
 
 - `perspectrum_model.py`: RoBERTa model
 - `run_evaluation.py`: evaluation script for computing model performance and consistency on contrast sets.

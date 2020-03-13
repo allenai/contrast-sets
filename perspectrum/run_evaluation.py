@@ -83,7 +83,7 @@ if __name__ == '__main__':
                         help="task to evaluate on, either \'stance\' or \'relevance\'. ")
     parser.add_argument("--model_dir", default="model/stance_roberta", type=str,
                         help="directory containing pretrained model weights.")
-    parser.add_argument("--data_path", default="perspectrum_minimal_pairs.csv", type=str,
+    parser.add_argument("--data_path", default="perspectrum_contrast_sets.csv", type=str,
                         help="path to perspectrum_minimal_pairs.csv")
     parser.add_argument("--result_path", default="log/result.json", type=str,
                         help="path to log/write results to.")
