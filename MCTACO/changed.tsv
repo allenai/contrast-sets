@@ -1,0 +1,647 @@
+index	sentence1	sentence2	label
+0	Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?	christianity started becoming more popular after being introduced	no
+1	Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?	christianity diminished into nothing, and people lost interest thereafter	yes
+2	Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?	people began practicing christianity	no
+3	Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?	people spewing  into the street	no
+4	Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?	christianity was forgotten about	yes
+5	Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?	many people converted	no
+6	Christianity was introduced into Gaul in the first century a.d. and never got popular. What happened after it was introduced?	compaq introduced its first notebook computer	no
+7	Advocating civil disobedience, he led his famous Salt March to the sea, to scoop up salt and circumvent the hated British salt tax, which eventually impacted British tax law. Did the British continue to tax salt?	no they stopped it that month	yes
+8	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	august	no
+9	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	in february	yes
+10	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	december	yes
+11	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	he rejoined his family	no
+12	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	in september	no
+13	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	november	yes
+14	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	september	no
+15	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	june	no
+16	In the fall of 1991, he asked a German family he had met in Cairo to help him clean the snow in Germany. What month did he do this?	in january	yes
+17	In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?	for a few months	no
+18	In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?	4 for a couple of days	yes
+19	In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?	for a couple years	no
+20	In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?	until he finishes his education	no
+21	In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?	4 years	no
+22	In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?	he met his girlfriend	no
+23	In the fall of 1991, he asked a German family he had met in Cairo to help him deliver a package in Germany. How long will he want help on the package?	for a few years	no
+24	The new novel takes place in a extermely peaceful world. How often is there violence	everyday	no
+25	The new novel takes place in a extermely peaceful world. How often is there violence	twice a second	no
+26	The new novel takes place in a extermely peaceful world. How often is there violence	once in a few years	yes
+27	The new novel takes place in a extermely peaceful world. How often is there violence	once in a few seconds	no
+28	The new novel takes place in a extermely peaceful world. How often is there violence	rarely	yes
+29	The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?	1 hour	no
+30	The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?	one year	no
+31	The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?	forty minutes	no
+32	The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?	john kelly spoke for five minutes	yes
+33	The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?	90 minutes	no
+34	The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?	thirty minutes	no
+35	The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?	one hour	no
+36	The core of our strategy is to lead in technology and attack the high-performance segments of the market, said John Kelly while he was walking out of the building. How long did John Kelly speak?	john kelly spoke for an hour	no
+37	Asjar's accomplishments and legacy was depicted in many cultures, but only during his days. Does Asjar's legacy still persist in the modern era?	no, his legacy stopped being important before his reign ended	yes
+38	Asjar's accomplishments and legacy was depicted in many cultures, but only during his days. Does Asjar's legacy still persist in the modern era?	yes, he is still highly depicted in many cultures. 	no
+39	Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?	0	yes
+40	Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?	none	yes
+41	Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?	3	no
+42	Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?	120	no
+43	Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?	one or two	no
+44	Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?	2	no
+45	Upon graduation in 1975, she entered private law practice in Oxford, and eventually changed to a different profession. How many cases does she work on a month now?	6	no
+46	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants died	no
+47	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the crops grew better	no
+48	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	plants grew	no
+49	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants grows worse	yes
+50	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the crops grew worse	yes
+51	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants grow better	no
+52	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants grew more	no
+53	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants grow worse	yes
+54	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants grows better	no
+55	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants grew worse	yes
+56	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants grew well	no
+57	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the flowers died	no
+58	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the crops died	no
+59	She tried adding a special growing mix from the garden store to make the soil better, but got no success.  What happened after the growing mix was added?	the plants grew better	no
+60	She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?	about 15 minutes	no
+61	She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?	1 month	no
+62	She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?	a couple weeks	no
+63	She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?	30 minutes	no
+64	She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?	1 year	no
+65	She added a special growing mix from the garden store to make the soil in her farm better. The farm covers the whole backyard and took more than a workday.  How long did it take to add growing mix into the garden?	about 15 hours	yes
+66	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	1906	no
+67	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	1891	no
+68	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	before 9 / 11	no
+69	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	1835	no
+70	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	after carrying out the plans	yes
+71	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	2010	yes
+72	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	before 9/11	no
+73	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	after carrying out the plan	yes
+74	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	2006	yes
+75	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	after completing their attacks 	yes
+76	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	after finishing their attacks 	yes
+77	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	1929	no
+78	The origin of the funds remains unknown, although we have a general idea of how al Qaeda financed itself during the period post 9/11. The article's mention of "period post 9/11" covers which of the following candidate? 	2012	yes
+79	Human operators are there to monitor the systems, catch errors and fine-tune the production process for maximum efficiency. When does the human operators night shift end?	4:00 PM	no
+80	Human operators are there to monitor the systems, catch errors and fine-tune the production process for maximum efficiency. When does the human operators night shift end?	5 a.m	yes
+81	Human operators are there to monitor the systems, catch errors and fine-tune the production process for maximum efficiency. When does the human operators night shift end?	4 p.m	no
+82	Allan crouched over his desk once more and fell asleep. For how long Allan was crouch over his desk?	a few seconds	no
+83	Allan crouched over his desk once more and fell asleep. For how long Allan was crouch over his desk?	2 weeks	no
+84	Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?	noon	no
+85	Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?	11:00 AM	no
+86	Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?	2:00 AM	yes
+87	Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?	4:00 PM	no
+88	Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?	3:00 PM	no
+89	Allan crouched over his desk once more and fell asleep, after a long night of work.  What time did Allan crouch over his desk?	3:00 AM	yes
+90	Aiming to climb up the legal ladder faster, Bailey stopped helping out in causes, even the ones he feels strongly about. Will Bailey continue to help out in causes in feels strongly about?	yes	no
+91	Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?	several times a day	yes
+92	Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?	multiple times in an hour	no
+93	Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?	weekly	yes
+94	Despite his quick climb up the legal ladder, Bailey has always found time to help people by answering their questions online How often does he help people?	several times in an hour	no
+95	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	for a few days	no
+96	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	three weeks	no
+97	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	two weeks	no
+98	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	for a few weeks	no
+99	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	10 centuries	no
+100	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	few hours	yes
+101	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	two week	no
+102	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	for a few seconds	no
+103	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	10 seconds	no
+104	Later in the month, they had a layover China and were allowed to see how different life was over there. How long did they stay in China?	for a couple weeks	no
+105	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	10 years	no
+106	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	90 year	no
+107	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	1955	no
+108	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	45 seconds	no
+109	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	405 year	no
+110	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	22 centuries	no
+111	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	30 second	no
+112	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	90 second	no
+113	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	less than 30 years	yes
+114	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	90 hours	no
+115	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	66 months	no
+116	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	22 months	no
+117	Einstein's affiliation with the Institute for Advanced Study started in his mid career, and lasted until his death in 1955. For how long was Einstein a faculty member at the Institute for Advanced Study?	longer than 5 years	yes
+118	These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?	the explorer took them to the museum	yes
+119	These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?	more fish started to live there	no
+120	These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?	the explorer showed them to the museum	yes
+121	These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?	the explorer brought them to the museum	yes
+122	These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?	these two new crowd families lived	no
+123	These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?	the fossil turned into real humans	no
+124	These fossils showed that this entire area was once at the bottom of a sea. What happened after the fossils were found?	the fossils were preserved 	yes
+125	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	1 day	yes
+126	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	0.2 year	no
+127	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	1 week	no
+128	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	1 season	no
+129	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	1 year	no
+130	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	one day	yes
+131	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	1 million years	no
+132	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	2000 years	no
+133	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	0.5 year	no
+134	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	0.5 day	yes
+135	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	one year	no
+136	The submarine showed that this entire area was once all bare land.  For how long was the submarine at the bottom of the sea?	500 years	no
+137	Over the centuries, the living here has always been easy enough to attract a steady stream of immigrants, until the war broke out. Are immigrants still arriving?	no they stopped	yes
+138	Over the centuries, the living here has always been easy enough to attract a steady stream of immigrants, until the war broke out. Are immigrants still arriving?	there was never a good immigration to here. 	no
+139	Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park	eating out	no
+140	Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park	going home	yes
+141	Every late evening after dinner we would go to the park and play Toodles' favorite game. What are you doing after the park	going home to have dinner	no
+142	A thwarted Mongol invasion in 1274 weakened the Kamakura regime. Was the invasion still affecting the regime until its end?	yes	yes
+143	A thwarted Mongol invasion in 1274 weakened the Kamakura regime. Was the invasion still affecting the regime until its end?	no	no
+144	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	half an hour	yes
+145	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	1 day	no
+146	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	18 seconds	no
+147	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	about an hour	yes
+148	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	21 days	no
+149	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	about one second	no
+150	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	several months	no
+151	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	about one hour	yes
+152	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	7 minutes	no
+153	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	18 minutes	yes
+154	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	7 weeks	no
+155	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	about an hours	yes
+156	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	162 seconds	no
+157	One day, Kevin traveled from his home in Brooklyn to Erin's house in Manhanttan. How long did the trip take?	several weeks	no
+158	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	few times in over a decades	yes
+159	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	every day	no
+160	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	never	no
+161	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	once every two seconds	no
+162	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	every two years	no
+163	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	once every two hours	no
+164	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	once per week	no
+165	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	every second	no
+166	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	every year	no
+167	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	once every two years	no
+168	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	twice a year	no
+169	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	every week	no
+170	One day, Kevin, who had never left the country, traveled from his home in the United States of America to Erin's house in England. How often does Kevin travel to England?	each year	no
+171	Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?	she has an easier life 	yes
+172	Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?	she used the pseudonym for her work	yes
+173	Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?	she tried to reveal her actual identity 	no
+174	Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?	she and her husband need the car	no
+175	Trying to live a regular life, she later adopted the name Fontaine -- the name of her mother's second husband. What happened after she changed her name?	she took a nap	no
+176	She temporarly used the stage name Fontaine -- the name of her mother's second husband and soon changed to another one. Is she known as Fontaine today?	yes	no
+177	She temporarly used the stage name Fontaine -- the name of her mother's second husband and soon changed to another one. Is she known as Fontaine today?	no	yes
+178	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand unil the enconomic crisis. Does the factory continue to make chips?	yes	no
+179	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	1:00 PM	yes
+180	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	2:00 PM	yes
+181	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	4:00 PM	yes
+182	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	9:00 AM	yes
+183	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	1:00 AM	yes
+184	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	only on weekends	no
+185	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	during the day	yes
+186	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	3:00 AM	yes
+187	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	7:00 AM	yes
+188	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	a limited set of times	no
+189	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	many of the nights due to their flexibility	yes
+190	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	2:00 AM	yes
+191	The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand non-stop. When is the factory making chips?	11:00 AM	yes
+192	She had gotten out of her last day of school and was free for the winter. When was her last day of school?	sometime around  june	no
+193	She had gotten out of her last day of school and was free for the winter. When was her last day of school?	june 2nd	no
+194	She had gotten out of her last day of school and was free for the winter. When was her last day of school?	sometime around in december	yes
+195	She had gotten out of her last day of school and was free for the winter. When was her last day of school?	june 1st	no
+196	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	just another few seconds	yes
+197	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	ten weeks	no
+198	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	five hours	no
+199	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	five seconds	yes
+200	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	ten hours	no
+201	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	3 hours	no
+202	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	3 seconds	yes
+203	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	just a few seconds	yes
+204	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	ten years	no
+205	Like the skateboarder, the higher the ramp, the faster he will be going when he reaches the bottom. How long does it take the skateboarder to go up to the highest ramp?	1 century	no
+206	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	3:00 AM	no
+207	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	7:00 PM	yes
+208	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	9:00 PM	yes
+209	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	7:00 AM	no
+210	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	10:00 PM	yes
+211	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	1:00 PM	no
+212	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	danny would leave around 10am	no
+213	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	3:00 PM	no
+214	Danny begins spending less and less time at home with his wife and children because of the night shift . What time would he leave home for work?	10:00 AM	no
+215	Danny was spending less and less time at home with his wife and children. Although over the years things got better, his wife was still not happy about the past.  Would the wife still be upset about this in six years?	yes	no
+216	Danny was spending less and less time at home with his wife and children. Although over the years things got better, his wife was still not happy about the past.  Would the wife still be upset about this in six years?	no	yes
+217	Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are not surrounded by air molecules?	they cannot breath anymore	yes
+218	Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. What happens once they are not surrounded by air molecules?	they can continue breathing	no
+219	Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?	just a couple minutes	no
+220	Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?	for as long as it's needed 	yes
+221	Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?	a two minutes	no
+222	Yes, they can, because they are in enclosed space stations or pressurized suits.In both cases, they are surrounded by air molecules. How long do the stations remain pressurized?	for hours as long as the workers are in them	yes
+223	He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?	saturday	no
+224	He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?	a decade ago	no
+225	He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?	about a second ago	no
+226	He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?	one decade ago	no
+227	He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?	around Monday 	yes
+228	He has not told his wife that he was fired at the beginning of the week and is simply serving out his tenure at the agency while looking for a new position . When was he fired?	friday	no
+229	Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?	Later today after his massage. 	no
+230	Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?	One massage is enough for him today; no more for today. 	yes
+231	Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?	Multiple times this week. 	no
+232	Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?	Maybe next week 	yes
+233	Gonzo treated himself to a massage today to try to work out all of his stuntman kinks. When is the next time Gonzo will ask for another massage?	Next month 	yes
+234	A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?	she starting singing to the audience 	no
+235	A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?	she talked to the audience	yes
+236	A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?	she continued to do her makeup 	no
+237	A thin, washed-out, pretty woman stood up, and clasped her hands in front of her in a disdaining way. What did she do after clasping her hands together?	she sat back to her seat 	no
+238	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	since someone tied her hands	no
+239	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	5 hours	no
+240	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	1 day	no
+241	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	50 minutes	no
+242	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	one minute	no
+243	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	25 hours	no
+244	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	5 seconds	yes
+245	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	1 hours	no
+246	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	a woman nominated her boss	no
+247	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	1 month	no
+248	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	15 hours	no
+249	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	a few seconds	yes
+250	A thin, washed-out, pretty woman stood up, and clasped her hands three times in front of her. How long were her hands clasped?	10 days	no
+251	Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker fails to steal the corporate secrets?	the hacker returns the data	no
+252	Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker fails to steal the corporate secrets?	they are sold off the black market	no
+253	Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker fails to steal the corporate secrets?	tries another time 	yes
+254	Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker fails to steal the corporate secrets?	the hacker returns the data	no
+255	Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker fails to steal the corporate secrets?	the hacker sells the documents	no
+256	Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker fails to steal the corporate secrets?	the hacker returned the data	no
+257	Moreover, he said, technology now exists for stealing corporate secrets after they've been "erased" from a computer's memory. What happens after hacker fails to steal the corporate secrets?	stops being a hacker 	no
+258	She had it for a long time but it seems brand new. How long has she had it?	10 years	yes
+259	She had it for a long time but it seems brand new. How long has she had it?	fifteen years	yes
+260	She had it for a long time but it seems brand new. How long has she had it?	5 years	yes
+261	She had it for a long time but it seems brand new. How long has she had it?	2 seconds	no
+262	She had it for a long time but it seems brand new. How long has she had it?	five years	yes
+263	She had it for a long time but it seems brand new. How long has she had it?	ten years	yes
+264	She had it for a long time but it seems brand new. How long has she had it?	0.6 days	no
+265	Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?	every hour	no
+266	Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?	once a minute	no
+267	Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?	every second	no
+268	Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?	hourly	no
+269	Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?	once a century	no
+270	Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?	every year	no
+271	Durer's father died in 1502, and his estranged mother died in 1513. How often did Durer visit his mother's grave?	almost never	yes
+272	Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?	40 years later	no
+273	Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?	360 years later	no
+274	Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?	4545	no
+275	Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?	40 seconds later	no
+276	Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?	April 6, 1528	no
+277	Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?	170	no
+278	Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?	before 1502	yes
+279	Durer's father died in 1502, and his mother died in 1513, both after Durer's death. When did Durer die?	after 1502	no
+280	Marsha used to takes extra special care to make sure Joey is safe and sound at all times. Is Joey safe and sound today because of Marsha?	yes	no
+281	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	it uprooted thousands of lives	no
+282	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	2,000 years	no
+283	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	1 second	no
+284	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	few years	yes
+285	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	thousands of hours	no
+286	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	thousands of years	no
+287	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	months	no
+288	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	days	no
+289	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	centuries	no
+290	However, more recently, it has been suggested that it may date from earlier than last Christmas. How long has it existed?	thousands of seconds	no
+291	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?	5 hours a day	no
+292	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?	once each month	no
+293	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?	25 times a day	yes
+294	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?	once a year	no
+295	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through the donation platform in very small amounts each time. How often did al Qaeda receive donations prior to 9/11?	every century	no
+296	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?	a few weeks	no
+297	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?	few days, during their funraising events.	yes
+298	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?	a few years	no
+299	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?	2 years	no
+300	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?	two seconds	no
+301	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?	a few seconds	no
+302	The CIA now estimates that it cost al Qaeda about $30 million per year to sustain its activities before 9/11 and that this money was raised almost entirely through annual donation events. How long did it take al Qaeda to raise $30 million?	a few hours	no
+303	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	several times every day	no
+304	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	every day	no
+305	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	several times each day	no
+306	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	every night	no
+307	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	every other second	no
+308	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	every morning	no
+309	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	every other year	yes
+310	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	daily	no
+311	She renews in Ranchipur an acquaintance with a former lover , Tom Ransome , who keeps very healthy habits. How frequently does Tom drink?	every other week	yes
+312	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	they go to the playground twice a night	no
+313	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	twice a minute	no
+314	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	three times a week	no
+315	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	few times a year	yes
+316	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	three times per week	no
+317	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	they go to the playground twice a minute	no
+318	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	once a week	no
+319	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	they go to the playground once every few days	no
+320	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	they go to the playground once every few centuries	no
+321	Tommy and Suzy (brother and sister) were surprised to be taken to the playground one afternoon by their mom and dad, Jan and Dean. How often did they go to the playground?	once a second	no
+322	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	every 5 minutes	no
+323	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	every 5 hours	no
+324	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	each 5 minutes	no
+325	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	5:00 AM	no
+326	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	4:00 PM	no
+327	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	every 5 days	no
+328	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	12 midnight	no
+329	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	9:00 AM	no
+330	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	5:00 PM	no
+331	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	every 45 minutes	no
+332	Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean and stayed for a picnic until after dinner  What time did they leave the playground?	8:00 PM	yes
+333	Most of us have seen steam rising off a wet road after a summer rainstorm. Will the road functional the next sunny day after the rainstorm?	yes	yes
+334	At first they feel like they are forced to stay in that situation." For how long do they felt they were forced to stay?	they feel they can trust mr. krenz	no
+335	At first they feel like they are forced to stay in that situation." For how long do they felt they were forced to stay?	a few months	no
+336	At first they feel like they are forced to stay in that situation." For how long do they felt they were forced to stay?	a few seconds	yes
+337	At first they feel like they are forced to stay in that situation." For how long do they felt they were forced to stay?	they feel comfortable	no
+338	At first they feel like they are forced to stay in that situation." For how long do they felt they were forced to stay?	a few centuries	no
+339	At first they feel like they are forced to stay in that situation." For how long do they felt they were forced to stay?	a few minutes	yes
+340	At first they feel like they are forced to stay in that situation." For how long do they felt they were forced to stay?	a few weeks	no
+341	Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?	yes.`	no
+342	Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?	yes, they did	no
+343	Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?	he says yes	no
+344	Lgurio informs Callimaco that Nicia and Lucrezia are forced to have a child . Did they want children when they were younger?	no	yes
+345	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	3 years	no
+346	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	9 minute	no
+347	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	3 hours	no
+348	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	two years	no
+349	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	1 day	no
+350	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	two seconds	no
+351	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	two hours	no
+352	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	20 years	no
+353	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child since pregnancy . How long have they been anxious to have children?	few weeks	yes
+354	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	a child leave home	no
+355	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	once a second	no
+356	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	rarely 	yes
+357	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	every week	no
+358	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	every hour	no
+359	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	every century	no
+360	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	she expecting a second child	no
+361	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	yearly	no
+362	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	every day	no
+363	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	never	yes
+364	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	once a hour	no
+365	Lgurio informs Callimaco that Nicia and Lucrezia are anxious to have a child as they did not want it. How often to Nicia and Lucrezia express their desire to have children?	every minute	no
+366	He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?	he chased the robbers	yes
+367	He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?	he died	no
+368	He was running all around the pond and barking at the ducks when he saw someone breaking in. What did he do after barking at the ducks?	he went home	no
+369	Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?	he went to jail	no
+370	Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?	perestrelo started working	yes
+371	Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?	investors celebrated the second anniversary of black monday	no
+372	Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?	he took 63 years off	no
+373	Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?	he celebrated	no
+374	Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?	he took 7 seconds off	no
+375	Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?	he took 21 years off	no
+376	Zarco and Teixeira were appointed co-go­vern­ors of Madeira, while their competitor Perestrelo had to settle with Porto Santo. What happened after Perestrelo was to rule Porto Santo?	he took 0.78 years off	no
+377	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	every 6 minutes	no
+378	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	once every 5 years	no
+379	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	once a year	yes
+380	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	multiple times a monthly	no
+381	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	once in 5 seconds	no
+382	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	every 54 years	no
+383	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	once in 5 hours	no
+384	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	once a hour	no
+385	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	every 6 days	no
+386	At current rates of use, coal will last about 300 years, according to the department's annual report. How often are the coal reserves calculated?	every 6 centuries	no
+387	But the key figure in the sultanate was the mysterious Tun Perak, bendahara (prime minister) and military commander. How many speeches does Perak make during his career?	rarely 	yes
+388	But the key figure in the sultanate was the mysterious Tun Perak, bendahara (prime minister) and military commander. How many speeches does Perak make during his career?	30	no
+389	But the key figure in the sultanate was the mysterious Tun Perak, bendahara (prime minister) and military commander. How many speeches does Perak make during his career?	every year	no
+390	But the key figure in the sultanate was the mysterious Tun Perak, bendahara (prime minister) and military commander. How many speeches does Perak make during his career?	one per month	no
+391	Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?	yes	yes
+392	Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?	electronic intelligence does not exist	no
+393	Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?	yes as long as computers exist	yes
+394	Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?	electronic espionage does not exists	no
+395	Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?	electronic espionage never existed	no
+396	Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?	yes as long as machines exist	yes
+397	Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions because they falsely believe it will end soon. Will electronic espionage always be happening in the U.S.?	electronic espionage does not exist	no
+398	She told me that she was heading for a drink right after getting out of the bed. When did she have a drink?	two months later	no
+399	She told me that she was heading for a drink right after getting out of the bed. When did she have a drink?	two days later	no
+400	She told me that she was heading for a drink right after getting out of the bed. When did she have a drink?	10:00 AM	yes
+401	She told me that she was heading for a drink right after getting out of the bed. When did she have a drink?	two centuries later	no
+402	In the States, Powell met with Prime Minister Mahathir Mohamad, who visited for the first time since 1981. What did Powell do after meeting with the Prime Minister ?	discussed a treaty between the two countries 	yes
+403	In the States, Powell met with Prime Minister Mahathir Mohamad, who visited for the first time since 1981. What did Powell do after meeting with the Prime Minister ?	declared war on the enemy country 	no
+404	In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who continued to lead the country until 1981. When did Powell and the Prime Minister meet ?	the prime minister and powell met after 1981	no
+405	In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who continued to lead the country until 1981. When did Powell and the Prime Minister meet ?	the prime minister and powell met before 1981	yes
+406	In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who continued to lead the country until 1981. When did Powell and the Prime Minister meet ?	powell and the prime minister met before 1981	yes
+407	In Malaysia, Powell met with Prime Minister Mahathir Mohamad, who continued to lead the country until 1981. When did Powell and the Prime Minister meet ?	powell and the prime minister met after 1981	no
+408	What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?	every 5 minutes	no
+409	What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?	twice a minute	no
+410	What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?	5 days a week	no
+411	What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?	twice a night	no
+412	What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?	never	yes
+413	What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?	always	no
+414	What if you rode the bus or were driven in a car? How often do toddlers ride the bus alone?	every 45 minutes	no
+415	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	18 weeks	no
+416	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	2 seconds	no
+417	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	20 years	no
+418	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	6 seconds	no
+419	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	6 years	no
+420	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	60 hours	no
+421	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	20 hours	no
+422	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	2 years	no
+423	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	2 weeks	no
+424	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	20 minutes	yes
+425	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	20 seconds	no
+426	In the end , they drive off home from the park nearby, listening to the radio . How long was the drive?	54 hours	no
+427	In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?	9000 times an hour 	no
+428	In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?	111.11  times an hour 	no
+429	In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?	1000  times an hour 	no
+430	In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?	they changed the music 240 times over the whole time 	yes
+431	In the end , they drive off to the multi-day roadtrip, listening to the radio . How many times did the music change during the trip?	they changed the music 80 times	yes
+432	Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?	for a century	no
+433	Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?	four centuries	no
+434	Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?	few minutes	yes
+435	Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?	3 minutes	yes
+436	Meanwhile Akai's wife , Nozomi , attempts to make friends with Juzo and entrusting the care of her toddler son to Juzo while she uses the bathroom. How long does Juzo care for Nozomi's son?	2 seconds	no
+437	At about 9:20pm, security personnel at FAA headquarters set up a hijacking teleconference with several agencies, including the Defense Department, and they were able to solve the issue within an hour. When did the teleconference end?	the telecon briefing ended at 5am	no
+438	At about 9:20pm, security personnel at FAA headquarters set up a hijacking teleconference with several agencies, including the Defense Department, and they were able to solve the issue within an hour. When did the teleconference end?	the telecon briefing ended at 11pm	yes
+439	At about 9:20pm, security personnel at FAA headquarters set up a hijacking teleconference with several agencies, including the Defense Department, and they were able to solve the issue within an hour. When did the teleconference end?	at least 20 years	no
+440	After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?	his brushed his teeth	no
+441	After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?	atta moved from moscow	no
+442	After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?	he brushed his teeth	no
+443	After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?	atta returned to Cairo	no
+444	After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?	he was promoted	no
+445	After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo but did poorly. What happened after Atta worked as an urban planner?	he worked in other fields	yes
+446	The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?	once	no
+447	The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?	many times	yes
+448	The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?	rarely 	no
+449	The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?	2 times	no
+450	The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?	0.2 time	no
+451	The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?	1 time	no
+452	The fossils that are very distinct at certain times of Earths history are called index fossils. How many times a year do the maintainers in the museum look at fossils?	12.5	no
+453	The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?	centuries	no
+454	The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?	years	no
+455	The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?	millions of years	no
+456	The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?	billions of years	no
+457	The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?	billions of seconds	no
+458	The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?	billions of centuries	no
+459	The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?	days	yes
+460	The fossils that are very distinct yet they are identified to be fake. How long did it take for the fake fossils to be made?	weeks	yes
+461	After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?	minutes	no
+462	After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?	days	yes
+463	After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?	never, he's not interested in her	no
+464	After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?	1 century	no
+465	After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?	hours	no
+466	After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?	decades	no
+467	After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?	months	no
+468	After sleeping with Lucrezia after the first date, Callimaco confesses everything . How long had Callimaco pursued Lucrezia?	1 minute	no
+469	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	10:00 AM	no
+470	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	at 11:00 pm	no
+471	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	at 9:00 am	no
+472	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	10:30 AM	no
+473	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	6:00 AM	no
+474	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	2:00 AM	no
+475	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	1:00 AM	no
+476	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	10:45 PM	no
+477	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	1:00 PM	no
+478	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. When did Roberta arrive at the Lamoreaux Justice Center?	5:00 PM	yes
+479	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. Did Roberta live in Orange?	yes	yes
+480	Roberta Adams skipped the thick how-to guide on child-custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday just before it closes for the evening. Did Roberta live in Orange?	no	no
+481	After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?	they denounced maharishi	no
+482	After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?	they started the negotiations with maharishi 	no
+483	After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?	maharishi mahesh yogi was seen as a fraud	no
+484	After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?	they returned home 	yes
+485	After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?	maharishi mahesh yogi became less famous 	no
+486	After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they cut a deal with Maharishi . What happened after the press conference?	maharishi mahesh yogi was associated with them 	yes
+487	He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?	in the classroom	no
+488	He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?	during the hour after school	yes
+489	He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?	during breakfast before school	yes
+490	He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?	in their living room 	no
+491	He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?	during classes	no
+492	He had never had any pets before, but was always excited to see the other dogs and cats in his neighborhood. When does he most often see dogs and cats?	in their basement 	no
+493	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	five seconds	no
+494	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	more than 10 years	yes
+495	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	less than 10 years	no
+496	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	1000 years	no
+497	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	ten minutes	no
+498	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	five minutes	no
+499	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	around 100 years	yes
+500	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	for over five decades	yes
+501	The letterhead on correspondence still bears the Bexar County Legal Aid name, even though this organization with one of the longest histories no longer exists. How long was the organization active?	ten light years	no
+502	They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?	9:00 PM	no
+503	They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?	10:00 AM	no
+504	They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?	8:00 AM	no
+505	They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?	1:00 AM	no
+506	They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?	3:00 AM	no
+507	They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?	12:00 AM	yes
+508	They packed up the car and drove to the library, ready for a fun morning before their lunch date.  When did they returned from the library?	9:00 AM	no
+509	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	five times a minute	no
+510	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	every hour	no
+511	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	once a second	no
+512	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	once a hour	no
+513	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	once every two seconds	no
+514	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	five times a century	no
+515	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	five times a night	no
+516	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	every week	yes
+517	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	every day	no
+518	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	every few weeks	no
+519	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	once a week	yes
+520	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	every few seconds	no
+521	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	every year	no
+522	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	once a year	no
+523	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	once every two weeks	no
+524	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	five times a day	no
+525	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	every few hours	no
+526	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	once every two years	no
+527	They packed up the car and drove to the library, ready for a fun morning, their usual activity on every Friday. How often do they drive to the library?	every few years	no
+528	Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?	10 minutes	yes
+529	Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?	2 days	no
+530	Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?	2 centuries	no
+531	Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?	they had fun	no
+532	Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?	18 days	no
+533	Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?	2 months	no
+534	Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?	1 miles	yes
+535	Because of the weather, they packed up the car and drove to the gym instead of walking. How long  was the drive?	1k miles	no
+536	They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?	they went to bed	no
+537	They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?	they sold a home	no
+538	They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?	they went to china	no
+539	They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?	they went to study	yes
+540	They packed up the car and drove to the library, ready for a fun morning before classes. What did they do after the morning?	they had fun	no
+541	He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?	a year	no
+542	He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?	20 weeks	no
+543	He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?	60 years	yes
+544	He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?	20 years	yes
+545	He also submitted the proposal as to its initial programs after a lifetime research. How long did it take him to come up with his suggestions?	a few years	no
+546	He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?	once a second	no
+547	He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?	once a minute	no
+548	He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?	many times before the initial proposal	no
+549	He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?	once a few decades	yes
+550	He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?	each century	yes
+551	He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?	each minute	no
+552	He also submitted various suggestions as to its initial programs after a lifetime research and became the first one to make changes. How often do they make changes to the programs?	once a hour	no
+553	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	less than 15 seconds	no
+554	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	few days	yes
+555	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	9 day	yes
+556	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	a week	yes
+557	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	a hour	yes
+558	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	few minute	no
+559	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	1 night	yes
+560	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	135 years	no
+561	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	a day	yes
+562	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	0.11 day	yes
+563	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	15 years	no
+564	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	1 century	no
+565	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	a second	no
+566	She told them that she would help take care of the puppy while they are gone, if she could have one later. For how long would she care for the puppy?	a century	no
+567	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	almost never	yes
+568	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every 20 seconds	no
+569	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every other minute	no
+570	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every week	no
+571	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every hour	no
+572	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every century	no
+573	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every 180 years	no
+574	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every 20 years	no
+575	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every second	no
+576	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every minute	no
+577	She told them that she would help take care of the puppy, although she doesn't like them. How often did she ask for a puppy?	every 20 hours	no
+578	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	4 times a day	no
+579	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	i eat a meal every 15 minutes	no
+580	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	3 times a minute	no
+581	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	once a second	no
+582	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	4 times a minute	no
+583	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	3 times a day	no
+584	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	once a week	yes
+585	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	27 times a day	no
+586	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	i eat a meal every 3 centuries	no
+587	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	i eat a meal every 5 minutes	no
+588	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	i eat a meal every 3 minutes	no
+589	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	3 times a month	yes
+590	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	4 times a month	yes
+591	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	once a hour	no
+592	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	4 times a century	no
+593	If you walked, you used chemical energy from the food you ate, including the fancy dinner. How often do you eat such a fancy meal?	every 3 days	yes
+594	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?	1 p.m	no
+595	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?	6 p.m	yes
+596	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?	11 a.m	no
+597	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?	10 a.m	no
+598	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?	9:00 AM	no
+599	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?	2:00 PM	no
+600	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?	4 p.m	yes
+601	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the shows' imminent launch at sunset. When will the show start?	before 12 p.m	no
+602	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?	100 times a day	no
+603	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?	0.6 times a day	no
+604	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?	multiples times in a month	yes
+605	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?	every 2 years	no
+606	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?	every 7 centuries	no
+607	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?	3 times per day	yes
+608	He filled three stories of the building with his art in 36 hours under tight security, as only a few museum staff were aware of the show that's taking the afternoon slot. How often does the building host shows?	15 times a day	no
+609	The clock was used to be heard ticking through the air and glass of the jar, but not anymore.  Will the clock tick in 5 years?	yes	no
+610	The clock was used to be heard ticking through the air and glass of the jar, but not anymore.  Will the clock tick in 5 years?	no, it has probably died already. 	yes
+611	The clock was used to be heard ticking through the air and glass of the jar, but not anymore.  Will the clock tick in 5 years?	he retrieved an unbroken , still-ticking pocket watch	no
+612	He also had Orang Laut pirates patrolling the seas to extort tribute from passing ships. For how long did the pirates patrol each small area?	for hours	yes
+613	He also had Orang Laut pirates patrolling the seas to extort tribute from passing ships. For how long did the pirates patrol each small area?	less than ten minutes	no
+614	He also had Orang Laut pirates patrolling the seas to extort tribute from passing ships. For how long did the pirates patrol each small area?	longer than fifteen minutes	yes
+615	The Vice President's guidance, in refence to the enemy, was "we need to take them out."  When does he want "to take them out"?	18 years from now	no
+616	The Vice President's guidance, in refence to the enemy, was "we need to take them out."  When does he want "to take them out"?	in a century	no
+617	The Vice President's guidance, in refence to the enemy, was "we need to take them out."  When does he want "to take them out"?	in a few days from now	yes
+618	They woke up and the sun was beginning to set. What happened after the sun set?	the sun turned dark	no
+619	They woke up and the sun was beginning to set. What happened after the sun set?	they stayed up the night since they already slept during the day 	yes
+620	Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?	forever 	no
+621	Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?	they will not last forever	yes
+622	Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?	for some time in future, until they're halted 	yes
+623	Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?	he asked no questions	no
+624	Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps which have continued to date.  How long will the wiretaps last?	the wiretappings last forever	no
+625	Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps even though he turned out to be innocent. What will happen next?	the fbi lose interest in the case 	yes
+626	Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps even though he turned out to be innocent. What will happen next?	nothing	no
+627	We may promise "justice for all," but for those who can't afford a lawyer, that promise is often a lie. Is "justice for all" happening today?	yes	no
+628	We may promise "justice for all," but for those who can't afford a lawyer, that promise is often a lie. Is "justice for all" happening today?	no	yes
+629	Magnets are able to place a force on certain materials. How long does it take for magnets to place a force on other materials?	immediately	no
+630	In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? 	the interests were discussed in separate committees 	yes
+631	In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? 	there was another comittee for bringing the interests together 	no
+632	In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? 	there was no joint comittee for discussing other major congressional interests. 	yes
+633	In this way the other major congressional interests can be brought together in the new committee's work. How different were the matters prior to the new committee? 	discussing other major congressional interests were of less importance  	no 
+634	The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?	weekend 	no
+635	The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?	on a wednesday	yes
+636	The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?	saturday	no
+637	The state has been first to pass major public health initiatives that have spread throughout the country. What day did the health initiatives pass?	sunday	no
+638	JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?	died in prison	no
+639	JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?	worked as a well-known attorney	no
+640	JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?	he worked as a successful lawyer	no
+641	JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?	died as a lawyer	no
+642	JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?	was in jail	yes
+643	JJ Hamilton never thought he would be a political figure given his background. What did JJ Hamilton do before his political career?	he was an immigrant 	yes
+644	Sarah is dating the curator Michael Pierce , a single father who disappered from the museum that night . Will Michael be back tomorrow?	yes	no
+645	Sarah is dating the curator Michael Pierce , a single father who disappered from the museum that night . Will Michael be back tomorrow?	no	yes
