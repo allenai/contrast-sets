@@ -1,6 +1,6 @@
 # ROPES minimal pairs and scripts
 
-The contrast sets and original instances that they were perturbed from the official [ROPES](https://allennlp.org/ropes) test set are in `data`. The predictions from the RoBERTa baseline are in `predictions`.
+The contrast sets and original instances from the official [ROPES](https://allennlp.org/ropes) test set are in `data`. The predictions from the RoBERTa baseline are in `predictions`.
 
 
 ## Scripts
