@@ -2,6 +2,10 @@
 
 The json file contains the contrast sets built on top of the official [Quoref](https://allennlp.org/quoref) test set.
 
+```quoref_test_perturbations_20191206_merged.json``` contains the set of perturbed instances. Each instance is based on an instance in the test set, and the original instance can be identified using the ```original_id``` field in this file.
+
+```quoref_original_subset_20191206_merged.json``` is the subset of questions from the test set that the perturbations are based on. So instance in the perturbed instances file should have a corresponding instance in this file, such that the ```original_id``` there should be the same as the ```id``` here.
+
 ## Scripts
 
 ### Minimal command line interface for manual perturbation
