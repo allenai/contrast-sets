@@ -1512,7 +1512,7 @@
 7	moment	moment	NOUN	SG-NOM	Number=Sing	2	obl	_	_
 8	with	with	ADP	_	_	10	case	_	_
 9	no	no	ADJ	ING	Degree=Pos	10	amod	_	_
-10	eyes	eye	NOUN	PL-NOM	Number=Plur	2	obl	_	SpaceAfter=No
+10	end	end	NOUN	SG-NOM	Number=Sing	7	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	Period	_	2	punct	_	_
 
 # sent_id = 4131***
